@@ -14,52 +14,52 @@
     "content": {
         "page1": {
           "title": "Team and Connection",
-          "url": "https://aquila08.github.io/app-serv/Menu1.htm",
+          "url": "https://aquila08.github.io/FreeFire/Menu1.htm",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page2": {
           "title": "Headphones and Sound",
-          "url": "https://aquila08.github.io/app-serv/Menu2.htm",
+          "url": "https://aquila08.github.io/FreeFire/Menu2.htm",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page3": {
           "title": "Landing",
-          "url": "https://ess-soft.github.io/static-web/Menu3.htm",
+          "url": "https://aquila08.github.io/FreeFire/Menu3.htm",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page4": {
           "title": "Equip yourself",
-          "url": "https://ess-soft.github.io/static-web/Menu4.htm",
+          "url": "https://aquila08.github.io/FreeFire/Menu4.htm",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page5": {
           "title": "Diamonds",
-          "url": "https://aquila08.github.io/app-serv/Menu5.htm",
+          "url": "https://aquila08.github.io/FreeFire/Menu5.htm",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page6": {
           "title": "Settings",
-          "url": "https://aquila08.github.io/app-serv/Menu6.htm",
+          "url": "https://aquila08.github.io/FreeFire/Menu6.htm",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page7": {
           "title": "Characters",
-          "url": "https://aquila08.github.io/app-serv/Menu7.htm",
+          "url": "https://aquila08.github.io/FreeFire/Menu7.htm",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page8": {
           "title": "Move up to heroic",
-          "url": "https://aquila08.github.io/app-serv/Menu8.htm",
+          "url": "https://aquila08.github.io/FreeFire/Menu8.htm",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
         },
         "page9": {
           "title": "Weapons",
-          "url": "https://aquila08.github.io/app-serv/Menu9.htm",
+          "url": "https://aquila08.github.io/FreeFire/Menu9.htm",
           "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
 	    },
         "page9": {
           "title": "Good Luck!",
-          "url": "https://aquila08.github.io/app-serv/Menu10.html",
+          "url": "https://aquila08.github.io/FreeFire/Menu10.html",
           "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
         }
       }
